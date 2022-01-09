@@ -1,0 +1,7 @@
+C:\C#\IyS\IyS\bin\Debug\IyS.exe.config
+C:\C#\IyS\IyS\bin\Debug\IyS.exe
+C:\C#\IyS\IyS\bin\Debug\IyS.pdb
+C:\C#\IyS\IyS\obj\Debug\IyS.csprojAssemblyReference.cache
+C:\C#\IyS\IyS\obj\Debug\IyS.csproj.CoreCompileInputs.cache
+C:\C#\IyS\IyS\obj\Debug\IyS.exe
+C:\C#\IyS\IyS\obj\Debug\IyS.pdb
